@@ -1,8 +1,8 @@
 let display = document.querySelector(".display");
-let numbers = document.querySelectorAll(".pad.number");
-let clear = document.querySelector(".pad.clear");
-let operators = document.querySelectorAll(".pad.operator");
-let equals = document.querySelector(".pad.equals");
+let numbers = document.querySelectorAll(".taster.number");
+let clear = document.querySelector(".taster.clear");
+let operators = document.querySelectorAll(".taster.operator");
+let equals = document.querySelector(".taster.equals");
 
 let numbersArray = [];
 let targetNumber1 = 0;
